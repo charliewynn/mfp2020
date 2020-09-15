@@ -1,0 +1,14 @@
+{
+  "games": [
+    { "name": "Missouri State", "abbr": "MOST" },
+    { "name": "K State", "abbr": "KSU" },
+    { "name": "ISU", "abbr": "ISU" },
+    { "name": "TEX", "abbr": "TEX" },
+    { "name": "TCU", "abbr": "TCU" },
+    { "name": "TTU", "abbr": "TTU" },
+    { "name": "KU", "abbr": "KU" },
+    { "name": "OKST", "abbr": "OKST" },
+    { "name": "WVU", "abbr": "WVU" },
+    { "name": "BAY", "abbr": "BAY" }
+  ]
+}

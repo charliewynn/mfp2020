@@ -1,24 +1,28 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from "react";
+import players from "./data/players.json";
+import "./App.css";
+import Player from "./components/Player";
 
 function App() {
+  const [selectedPlayer, setSelectedPlayer] = useState(null);
+
+  const selectedPlayerArea = () => {
+    if (selectedPlayer) {
+      return <Player {...selectedPlayer} />;
+    } else {
+      return <div>Click a player name</div>;
+    }
+  };
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <header className="App-header">Mema's Football Pool 2020</header>
+      {players.players.map((p) => (
+        <button key={p.name} onClick={() => setSelectedPlayer(p)}>
+          {p.name}
+        </button>
+      ))}
+      {selectedPlayerArea()}
     </div>
   );
 }
