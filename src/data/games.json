@@ -1,14 +1,103 @@
 {
-  "games": [
-    { "name": "Missouri State", "abbr": "MOST" },
-    { "name": "K State", "abbr": "KSU" },
-    { "name": "ISU", "abbr": "ISU" },
-    { "name": "TEX", "abbr": "TEX" },
-    { "name": "TCU", "abbr": "TCU" },
-    { "name": "TTU", "abbr": "TTU" },
-    { "name": "KU", "abbr": "KU" },
-    { "name": "OKST", "abbr": "OKST" },
-    { "name": "WVU", "abbr": "WVU" },
-    { "name": "BAY", "abbr": "BAY" }
-  ]
+	"games": [{
+			"name": "Missouri State",
+			"abbr": "MOST",
+			"description": "MOST vs OU",
+			"date": "9/12",
+			"homeAway": "Home",
+			"isComplete": true,
+			"finalOklahomaScore": 48,
+			"finalOpponentScore": 0
+		},
+		{
+			"name": "Kansas State",
+			"abbr": "KSU",
+			"description": "KSU vs OU",
+			"date": "9/26",
+			"homeAway": "Home",
+			"isComplete": false,
+			"finalOklahomaScore": 0,
+			"finalOpponentScore": 0
+		},
+		{
+			"name": "Iowa State",
+			"abbr": "ISU",
+			"description": "ISU vs OU",
+			"date": "10/3",
+			"homeAway": "AWAY",
+			"isComplete": false,
+			"finalOklahomaScore": 0,
+			"finalOpponentScore": 0
+		},
+		{
+			"name": "Texas",
+			"abbr": "TEX",
+			"description": "TEX vs OU",
+			"date": "10/10",
+			"homeAway": "AWAY",
+			"isComplete": false,
+			"finalOklahomaScore": 0,
+			"finalOpponentScore": 0
+		},
+		{
+			"name": "Texas Christian University",
+			"abbr": "TCU",
+			"description": "TCU vs OU",
+			"date": "10/24",
+			"homeAway": "AWAY",
+			"isComplete": false,
+			"finalOklahomaScore": 0,
+			"finalOpponentScore": 0
+		},
+		{
+			"name": "Texas Tech",
+			"abbr": "TTU",
+			"description": "TTU vs OU",
+			"date": "10/31",
+			"homeAway": "AWAY",
+			"isComplete": false,
+			"finalOklahomaScore": 0,
+			"finalOpponentScore": 0
+		},
+		{
+			"name": "Kansas",
+			"abbr": "KU",
+			"description": "KU vs OU",
+			"date": "11/7",
+			"homeAway": "HOME",
+			"isComplete": false,
+			"finalOklahomaScore": 0,
+			"finalOpponentScore": 0
+		},
+		{
+			"name": "Oklahoma State",
+			"abbr": "OKST",
+			"description": "OKST vs OU",
+			"date": "11/21",
+			"homeAway": "HOME",
+			"isComplete": false,
+			"finalOklahomaScore": 0,
+			"finalOpponentScore": 0
+		},
+		{
+			"name": "West Virginia",
+			"abbr": "WVU",
+			"description": "WVU vs OU",
+			"date": "11/28",
+			"homeAway": "AWAY",
+			"isComplete": false,
+			"finalOklahomaScore": 0,
+			"finalOpponentScore": 0
+		},
+		{
+			"name": "Baylor",
+			"abbr": "BAY",
+			"description": "BAY vs OU",
+			"date": "12/5",
+			"homeAway": "HOME",
+			"isComplete": false,
+			"finalOklahomaScore": 0,
+			"finalOpponentScore": 0
+		}
+	]
 }
