@@ -8,7 +8,8 @@
       "homeAway": "Home",
       "isComplete": true,
       "finalOklahomaScore": 48,
-      "finalOpponentScore": 0
+      "finalOpponentScore": 0,
+      "espnLink": "https://www.espn.com/college-football/game/_/gameId/401236054"
     },
     {
       "name": "Kansas State",
@@ -18,7 +19,8 @@
       "homeAway": "Home",
       "isComplete": false,
       "finalOklahomaScore": 0,
-      "finalOpponentScore": 0
+      "finalOpponentScore": 0,
+      "espnLink": "https://www.espn.com/college-football/game/_/gameId/401235996"
     },
     {
       "name": "Iowa State",
@@ -28,7 +30,8 @@
       "homeAway": "AWAY",
       "isComplete": false,
       "finalOklahomaScore": 0,
-      "finalOpponentScore": 0
+      "finalOpponentScore": 0,
+      "espnLink": "https://www.espn.com/college-football/game/_/gameId/401235999"
     },
     {
       "name": "Texas",
@@ -38,7 +41,8 @@
       "homeAway": "AWAY",
       "isComplete": false,
       "finalOklahomaScore": 0,
-      "finalOpponentScore": 0
+      "finalOpponentScore": 0,
+      "espnLink": "https://www.espn.com/college-football/game/_/gameId/401236005"
     },
     {
       "name": "Texas Christian University",
@@ -48,7 +52,8 @@
       "homeAway": "AWAY",
       "isComplete": false,
       "finalOklahomaScore": 0,
-      "finalOpponentScore": 0
+      "finalOpponentScore": 0,
+      "espnLink": "https://www.espn.com/college-football/game/_/gameId/401236011"
     },
     {
       "name": "Texas Tech",
@@ -58,7 +63,8 @@
       "homeAway": "AWAY",
       "isComplete": false,
       "finalOklahomaScore": 0,
-      "finalOpponentScore": 0
+      "finalOpponentScore": 0,
+      "espnLink": "https://www.espn.com/college-football/game/_/gameId/401236016"
     },
     {
       "name": "Kansas",
@@ -68,7 +74,8 @@
       "homeAway": "HOME",
       "isComplete": false,
       "finalOklahomaScore": 0,
-      "finalOpponentScore": 0
+      "finalOpponentScore": 0,
+      "espnLink": "https://www.espn.com/college-football/game/_/gameId/401236019"
     },
     {
       "name": "Oklahoma State",
@@ -78,7 +85,8 @@
       "homeAway": "HOME",
       "isComplete": false,
       "finalOklahomaScore": 0,
-      "finalOpponentScore": 0
+      "finalOpponentScore": 0,
+      "espnLink": "https://www.espn.com/college-football/game/_/gameId/401236027"
     },
     {
       "name": "West Virginia",
@@ -88,7 +96,8 @@
       "homeAway": "AWAY",
       "isComplete": false,
       "finalOklahomaScore": 0,
-      "finalOpponentScore": 0
+      "finalOpponentScore": 0,
+      "espnLink": "https://www.espn.com/college-football/game/_/gameId/401236031"
     },
     {
       "name": "Baylor",
@@ -98,7 +107,8 @@
       "homeAway": "HOME",
       "isComplete": false,
       "finalOklahomaScore": 0,
-      "finalOpponentScore": 0
+      "finalOpponentScore": 0,
+      "espnLink": "https://www.espn.com/college-football/game/_/gameId/401236033"
     }
   ]
 }
